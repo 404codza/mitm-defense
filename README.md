@@ -5,7 +5,9 @@ mitm saldırılarına karşı bilgilendirme uygulaması
 Nasıl KUllanılır?
 
 1-cmd aç
+
 2-cd "hangi dosyada ise"/mitm-defense-main
+
 3-codzamitm.py
 
 -uygulama haline getirme 
