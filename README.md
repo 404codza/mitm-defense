@@ -6,7 +6,7 @@ Nasıl KUllanılır?
 
 1-cmd aç
 
-2-cd "hangi dosyada ise"/mitm-defense-main
+2-cd "nereye indirdiysen"/mitm-defense-main
 
 3-codzamitm.py
 
